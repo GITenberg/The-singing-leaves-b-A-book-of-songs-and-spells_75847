@@ -1,0 +1,31 @@
+_repo: The-singing-leaves-b-A-book-of-songs-and-spells_75847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peabody, Josephine Preston
+    alias: Marks, Mrs. Lionel
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '3012'
+    url: http://www.gutenberg.org/2009/agents/3012
+    wikipedia: https://en.wikipedia.org/wiki/Josephine_Preston_Peabody
+description: ''
+gutenberg_issued: '2025-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75847'
+language: en
+pgterms:marc904: https://archive.org/details/singingleaves00peabrich
+pgterms:marc905: 20240805134415peabody
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The singing leaves : $b A book of songs and spells'
+url: http://www.gutenberg.org/ebooks/75847
