@@ -1,5 +1,8 @@
 _repo: The-singing-leaves-b-A-book-of-songs-and-spells_75847
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75847-h/images/cover.jpg
 creator:
   author:
     agent_name: Peabody, Josephine Preston
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3012
     wikipedia: https://en.wikipedia.org/wiki/Josephine_Preston_Peabody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75847#The-singing-leaves-b-A-book-of-songs-and-spells
 gutenberg_issued: '2025-04-13'
 gutenberg_type: Text
 identifiers:
